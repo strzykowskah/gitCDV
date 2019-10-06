@@ -10,6 +10,8 @@ sudo apt install git
 cd ..
 ls
 pwd
+mkdir
+clear
 ```
 
 ### Coś z Pythona
