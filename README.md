@@ -12,4 +12,7 @@ ls
 pwd
 ```
 
-### 
+### Coś z Pythona
+```python
+print("Hello")
+```
