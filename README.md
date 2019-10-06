@@ -7,6 +7,7 @@ sudo apt install git
 
 ## Ulubione 5 poleceń z Linuxa
 ```polecenia
+cd ..
 ls
 pwd
 ```
